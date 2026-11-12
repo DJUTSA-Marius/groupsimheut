@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 740" role="img" aria-labelledby="t">
+<title id="t">SIMHEUT Group — Le pouvoir de l’audace</title>
+<!-- Toit -->
+<path d="M57 298 L278 90 L500 298" fill="none" stroke="#0D2B6F" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Symbole orange -->
+<g fill="#F28C1E" stroke="#F28C1E">
+<line x1="278" y1="210" x2="278" y2="444" stroke-width="28"/>
+<line x1="155" y1="444" x2="400" y2="444" stroke-width="28"/>
+<circle cx="278" cy="210" r="33" stroke="none"/>
+<circle cx="155" cy="444" r="36" stroke="none"/>
+<circle cx="400" cy="444" r="36" stroke="none"/>
+</g>
+<!-- Textes -->
+<g font-family="Arial, Helvetica, 'Liberation Sans', sans-serif">
+<text x="605" y="306" font-size="196" font-weight="700" fill="#0D2B6F" textLength="960" lengthAdjust="spacing">SIMHEUT</text>
+<text x="605" y="455" font-size="122" font-weight="700" fill="#F28C1E" textLength="580" lengthAdjust="spacing">GROUP</text>
+<text x="603" y="666" font-size="104" font-style="italic" fill="#B85C00" textLength="945" lengthAdjust="spacing">Le pouvoir de l’audace</text>
+</g>
+</svg> 
